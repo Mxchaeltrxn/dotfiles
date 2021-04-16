@@ -1,0 +1,40 @@
+{
+    "todo-tree.tree.showScanModeButton": false,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "explorer.confirmDragAndDrop": false,
+    "git.enableSmartCommit": true,
+    "explorer.confirmDelete": false,
+    "python.languageServer": "Pylance",
+    "editor.wordWrap": "wordWrapColumn",
+    "githubPullRequests.fileListLayout": "tree",
+    "diffEditor.renderSideBySide": true,
+    "omnisharp.path": "latest",
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "tabnine.experimentalAutoImports": true,
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "editor.tabSize": 2,
+    "editor.fontFamily": "Fira Code",
+"editor.fontLigatures": true,
+"prettier.semi": false,
+"files.autoSave": "afterDelay",
+"emmet.showSuggestionsAsSnippets": true,
+"window.zoomLevel": 1,
+"[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+},
+"typescript.updateImportsOnFileMove.enabled": "always",
+"workbench.editorAssociations": [
+    {
+        "viewType": "jupyter.notebook.ipynb",
+        "filenamePattern": "*.ipynb"
+    }
+],
+"workbench.colorTheme": "Atom One Dark",
+
+}
